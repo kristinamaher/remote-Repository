@@ -1,4 +1,4 @@
 Kristina Maher
 SWDV- 275 Development tools
-Basic merge
-9/4/2026
+Basic merge - first baisc merge on vs using git
+9/4/2026 - changes have been made
